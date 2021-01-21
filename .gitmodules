@@ -1,0 +1,6 @@
+[submodule "deps/toolchain"]
+	path = deps/toolchain
+	url = git@github.com:CvRXX/toolchain.git
+[submodule "deps/hwlib"]
+	path = deps/hwlib
+	url = git@github.com:CvRXX/hwlib.git
